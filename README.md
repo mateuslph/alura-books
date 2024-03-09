@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Alura Book
+
+### React project created with guidance from the Alura platform
+
+## Getting Started with Create React App
+
+Purpose of registering books
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
