@@ -1,6 +1,6 @@
 # Alura Book
 
-### React project created with guidance from the Alura platform
+### [React](https://react.dev/) project created with guidance from the [Alura](https://www.alura.com.br/) platform
 
 ## Getting Started with Create React App
 
