@@ -1,4 +1,4 @@
-import Logo from '../logo';
+import Logo from '../Logo';
 import OpcoesHeader from '../OpcoesHeader';
 import IconesHeader from '../IconesHeader';
 import styled from 'styled-components';
@@ -12,9 +12,9 @@ const HeaderContainer = styled.header`
 function Header() {
     return (
         <HeaderContainer>
-            <Logo/>
-            <OpcoesHeader/>
-            <IconesHeader/>
+            <Logo />
+            <OpcoesHeader />
+            <IconesHeader />
         </HeaderContainer>
         
     )
