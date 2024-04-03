@@ -2,6 +2,10 @@
 
 ### [React](https://react.dev/) project created with guidance from the [Alura](https://www.alura.com.br/) platform
 
+### Project image on local server:
+
+![imagem do site](https://github.com/mateuslph/alura-books/blob/main/src/imagens/alura-book.png)
+
 ## Getting Started with Create React App
 
 Purpose of registering books
